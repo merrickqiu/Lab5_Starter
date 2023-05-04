@@ -2,5 +2,9 @@
 Joseph Del Val,
 Merrick Qiu
 
-# Github Actions
+# Links
+https://merrickqiu.github.io/Lab5_Starter/expose.html
+
+https://merrickqiu.github.io/Lab5_Starter/explore.html
+
 https://github.com/jtdelval/introduction-to-github
