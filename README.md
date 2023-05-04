@@ -1,3 +1,3 @@
 # Lab 5 - Starter
-Joseph Del Val
+Joseph Del Val,
 Merrick Qiu
